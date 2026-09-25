@@ -1,5 +1,4 @@
-# User Preferences for YouTube Recommendation Systems: A Business Analytics Case Study
-
+# User Preferences for Recommendation Systems: A Survey-Based Case Study of YouTube
 A data-driven study analysing how user habits, satisfaction, and friction points influence viewing reliance on YouTube recommendations.
 
 **Author:** Pranathi Nibhanipudi  
@@ -14,6 +13,8 @@ A data-driven study analysing how user habits, satisfaction, and friction points
 Recommendation algorithms drive a large portion of digital media consumption, yet platforms often struggle to balance user engagement with content repetition and clickbait fatigue. This case study explores user interactions with YouTube's recommendation system, evaluating how viewing time, platform satisfaction, content repetition, and skip behaviours impact how much users rely on recommendations.
 
 The study scales an initial 115-response survey to a 10,000-record dataset using an Empirical Gaussian Copula to preserve distributions and correlations, followed by exploratory analysis and predictive regression modelling.
+
+Survey - https://docs.google.com/forms/d/1_RQcN88WSD5EJBYl7oLJQmw9ahGoXLDh1GaemAiMpmU
 
 ---
 
